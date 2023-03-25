@@ -1,0 +1,14 @@
+# torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+numpy
+pandas
+sklearn
+matplotlib
+scipy
+transformers
+datascience
+folium
+datasets
+requests
+tensorboardX
+tensorboard
+
